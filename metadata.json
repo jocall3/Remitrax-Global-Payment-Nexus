@@ -1,0 +1,7 @@
+{
+  "name": "Remitrax Global Payment Nexus",
+  "description": "An enterprise-grade, multi-rail payment portal featuring AI-driven fraud detection, quantum-resistant security simulations, and multi-dimensional financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
